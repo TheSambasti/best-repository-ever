@@ -8,4 +8,5 @@ def hi():
     while i < 100:
         print('This is the '+i+'th instance of this')
         i += 1
+return 'hi'
 
